@@ -31,7 +31,7 @@ if (suma > resta) {
 
 
 
-if (suma !== 10) console.log('Negación de igualdad');
+if (suma !== 10) console.log('Negación de igualdad'); // negacion
 
 if (!!suma) console.log("Negación de variables"); // !!se usa para un booleano true    || ! negacion false
 
